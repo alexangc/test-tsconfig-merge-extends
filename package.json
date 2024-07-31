@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "check": "tsc --project ./config/tsconfig.a.json --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
